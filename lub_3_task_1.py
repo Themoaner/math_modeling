@@ -8,3 +8,5 @@ magnetic_constant = 1.27 * 10**(-6)
 electric_constant = 8.85 * 10**(-12)
 Coulomb_constant = 8.99 * 10**9
 electron_mass = 9.11 * 10**(-31)
+acceleration_of_gravity = 9.8
+euler_number = 2.7182818284
